@@ -1,0 +1,4 @@
+method,data_scope,raw_records,benchmark_records,wall_time_seconds,internal_time_seconds,max_rss_kb,output_rows,exit_status,validation
+Hadoop Streaming,2024 full year,7079061,6965247,98.23,,341256,24,0,PASSED
+Spark on YARN,2024 full year,7079061,6965247,56.55,30.28,680892,24,0,PASSED
+pandas,2024 full year,7079061,6965247,37.79,35.64,1689864,24,0,PASSED
