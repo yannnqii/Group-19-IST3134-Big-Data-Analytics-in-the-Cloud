@@ -1,0 +1,6 @@
+cause,total_minutes,share_pct
+LateAircraftDelay,4.1973684E7,40.44
+CarrierDelay,3.5823263E7,34.51
+NASDelay,1.9621964E7,18.9
+WeatherDelay,6195873.0,5.97
+SecurityDelay,179928.0,0.17

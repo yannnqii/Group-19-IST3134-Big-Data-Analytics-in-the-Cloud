@@ -1,0 +1,16 @@
+carrier,airline_name,flights,avg_arr_delay,pct_delayed15,pct_cancelled
+WN,Southwest Airlines Co.,1419419,5.13,20.6,0.83
+DL,Delta Air Lines Inc.,1009174,3.66,17.26,0.91
+AA,American Airlines Inc.,984306,15.31,26.13,1.55
+UA,United Air Lines Inc.,760451,5.74,19.86,1.64
+OO,SkyWest Airlines Inc.,744658,7.36,19.0,1.15
+YX,Republic Airline,301465,-1.79,14.07,1.85
+MQ,Envoy Air,279955,6.46,20.86,1.42
+NK,Spirit Air Lines,261103,8.42,23.93,1.91
+AS,Alaska Airlines Inc.,245819,4.47,22.07,1.96
+B6,JetBlue Airways,240282,10.74,25.51,1.55
+OH,PSA Airlines Inc.,227971,10.03,21.77,1.65
+F9,Frontier Airlines Inc.,208624,15.25,28.74,2.32
+9E,Endeavor Air Inc.,200094,1.68,15.83,2.3
+G4,Allegiant Air,117210,9.71,21.67,1.72
+HA,Hawaiian Airlines Inc.,78530,4.25,15.45,1.05
