@@ -1,0 +1,23 @@
+	Command being timed: "spark-submit --deploy-mode client /home/hadoop/flight-delays-benchmark/src/spark_hourly_benchmark.py --input hdfs:///user/hadoop/benchmark/input/ontime_2024_*.csv --output hdfs:///user/hadoop/benchmark/results_spark"
+	User time (seconds): 44.03
+	System time (seconds): 3.68
+	Percent of CPU this job got: 84%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:56.55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 680892
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 223
+	Minor (reclaiming a frame) page faults: 127129
+	Voluntary context switches: 38668
+	Involuntary context switches: 64369
+	Swaps: 0
+	File system inputs: 764496
+	File system outputs: 814424
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
